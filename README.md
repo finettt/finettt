@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">AI skeptic, python developer from  🇷🇺</h3>
 
-I'm a beginner Python developer and DevOps enthusiast on a journey to become a full-stack developer. I'm passionate about building and deploying complete solutions that solve real problems. As an AI skeptic, I focus on practical, reliable software development.
+I'm a beginner Python developer and DevOps enthusiast on a journey to become a full-stack developer.
 
 ## 🛠️ Skills & Technologies
 
@@ -26,7 +26,7 @@ Plans to apply for a job at [Anthropic](https://github.com/anthropics) in the su
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finettt&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finettt&layout=compact)
 [![Profile Views](https://komarev.com/ghpvc/?username=finettt&color=green)](https://github.com/finettt)
 
 ## 📫 Let's Connect
