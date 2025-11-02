@@ -40,6 +40,11 @@ Plans to apply for a job at [Anthropic](https://github.com/anthropics) in the su
   <a href="https://t.me/n0_pl3ase" target="_blank" rel="noopener noreferrer" title="Telegram Channel - Subscribe to my telegram channel!">
     <img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Subscribe&alt=Channel" alt="Telegram Channel">
   </a>
+  
+  <!-- Matrix -->
+  <a href="https://matrix.to/#/@finett:gitter.im" target="_blank" rel="noopener noreferrer" title="Matrix - Connect with me on Matrix!">
+    <img src="https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff&style=for-the-badge" alt="Matrix">
+  </a>
 </div>
 
 ---
