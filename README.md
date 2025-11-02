@@ -43,7 +43,7 @@ Plans to apply for a job at [Anthropic](https://github.com/anthropics) in the su
   
   <!-- Matrix -->
   <a href="https://matrix.to/#/@finett:gitter.im" target="_blank" rel="noopener noreferrer" title="Matrix - Connect with me on Matrix!">
-    <img src="https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff&style=for-the-badge" alt="Matrix">
+    <img src="https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff&style=for-the-badge&label=Matrix" alt="Matrix">
   </a>
 </div>
 
