@@ -27,7 +27,10 @@ Plans to apply for a job at [Anthropic](https://github.com/anthropics) in the su
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finettt&layout=compact)
-[![Profile Views](https://komarev.com/ghpvc/?username=finettt&color=green)](https://github.com/finettt)
+
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=finettt&color=green)
 
 ## 📫 Let's Connect
 <div align="center">
