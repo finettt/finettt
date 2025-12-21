@@ -35,7 +35,7 @@ Plans to apply for a job at [Anthropic](https://github.com/anthropics) in the su
 ## 📫 Let's Connect
 <div align="center">
   <!-- Personal Contact -->
-  <a href="https://t.me/not_finet" target="_blank" rel="noopener noreferrer" title="Personal Telegram - Write me in telegram!">
+  <a href="https://t.me/finett_f" target="_blank" rel="noopener noreferrer" title="Personal Telegram - Write me in telegram!">
     <img src="https://img.shields.io/badge/Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Personal&alt=Contact" alt="Personal Telegram">
   </a>
   
