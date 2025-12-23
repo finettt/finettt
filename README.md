@@ -25,13 +25,15 @@ I'm working toward becoming a full-stack developer with strong DevOps skills. My
 Plans to apply for a job at [Anthropic](https://github.com/anthropics) in the summer of 2026 (Wish you luck XD I'm only 15)
 
 ## Stats
+![Current streak](https://github-readme-stats-fast.vercel.app/api/streak?username=finettt&theme=dark)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finettt&layout=compact)
 
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=finettt&color=green)
-
+-->
 ## 📫 Let's Connect
 <div align="center">
   <!-- Personal Contact -->
