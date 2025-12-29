@@ -9,7 +9,9 @@ I'm a beginner Python developer and DevOps enthusiast on a journey to become a f
 ### Currently Learning & Working With:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+
 
 ### Development Environment:
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
@@ -18,11 +20,6 @@ I'm a beginner Python developer and DevOps enthusiast on a journey to become a f
 ### I'm a big fan of:
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919.svg?style=for-the-badge&logo=Anthropic&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white)
-
-## Career Goals
-
-I'm working toward becoming a full-stack developer with strong DevOps skills. My goal is to build and deploy complete solutions from start to finish, handling both the development and operational aspects of software projects.
-Plans to apply for a job at [Anthropic](https://github.com/anthropics) in the summer of 2026 (Wish you luck XD I'm only 15)
 
 ## Stats
 ![Current streak](https://github-readme-stats-fast.vercel.app/api/streak?username=finettt&theme=dark)
