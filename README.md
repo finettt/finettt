@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">AI skeptic, python developer from  🇷🇺</h3>
 
-I'm a beginner Python developer and DevOps enthusiast on a journey to become a full-stack developer.
+I'm a beginner on a journey to become a DevOps master.
 
 ## 🛠️ Skills & Technologies
 
