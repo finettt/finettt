@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm <a href="https://t.me/finett_f" target="_blank">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">AI skeptic, python developer from  🇷🇺</h3>
+<h3 align="center">AI Pragmatist, python developer from  🇷🇺</h3>
 
 I'm a beginner on a journey to become a DevOps master.
 
