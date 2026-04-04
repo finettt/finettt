@@ -1,15 +1,15 @@
 <h1 align="center">Hello there, I'm <a href="https://t.me/finett_f" target="_blank">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">AI Pragmatist, python developer from  🇷🇺</h3>
+<h3 align="center">AI Pragmatist, python/go developer from  🇷🇺</h3>
 
 I'm a beginner on a journey to become a DevOps master.
 
 ## 🛠️ Skills & Technologies
 
 ### Currently Learning & Working With:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=fff)
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
 
 
